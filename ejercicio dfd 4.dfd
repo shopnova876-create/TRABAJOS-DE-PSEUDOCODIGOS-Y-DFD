@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+100
+'encontraremos el algoritmo que permita convertir unidades de grados centigrados a grados farenheid'
+5
+1
+5
+valor
+6
+1
+1
+x
+14
+(valor*9/5)+32
+7
+0
+1
+8
+x> = 212
+4
+1
+37
+x, 'no supera el punto de evullicion'
+13
+4
+1
+38
+x, 'si esta en el punto de ebullicion'
+13
+1

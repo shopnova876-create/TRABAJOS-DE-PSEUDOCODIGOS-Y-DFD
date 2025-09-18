@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+89
+'Digite un número que vaya de entre el al 10 para determinar si es un número par o impar'
+5
+1
+6
+numero
+6
+1
+5
+valor
+12
+numero mod 2
+7
+0
+1
+11
+numero >=10
+7
+0
+1
+9
+valor = 0
+4
+1
+28
+numero, ' es un valor impar'
+13
+4
+1
+26
+numero, ' es un valor par'
+13
+13
+4
+1
+45
+'error ' ,numero, ' no es un valor propuesto'
+13
+1

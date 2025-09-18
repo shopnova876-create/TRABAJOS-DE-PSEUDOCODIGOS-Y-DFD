@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+'ingrese una contraseña'
+5
+1
+8
+pasworld
+6
+1
+11
+contraseña 
+5
+12345
+9
+1
+22
+pasworld != contraseña
+4
+1
+53
+'contraseña invalida, ingrese la contraseña correcta'
+5
+1
+8
+pasworld
+11
+4
+1
+12
+'bienvenido'
+1
